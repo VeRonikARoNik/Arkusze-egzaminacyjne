@@ -34,6 +34,8 @@ Zapytanie 3: SELECT ID, Nazwa FROM wyroby WHERE Nazwa LIKE '%Chałka%';
 Zapytanie 4: SELECT Rodzaj, ROUND(AVG(Cena), 2) AS "Średnia_cena" FROM wyroby GROUP BY Rodzaj;
 ```
 ### 3. Wizualizacja 
+<img width="701" height="379" alt="kw1" src="https://github.com/user-attachments/assets/55efb9ec-12bd-45c1-847d-9b94c1d2457e" />
+
 
 ### 4. Źródła
 #### Link do arkusza : https://ee-informatyk.pl/inf03-ee09/praktyka/
