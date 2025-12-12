@@ -2,10 +2,10 @@
 Arkusze z 2025 roku
 
 ## Spis treści
-[1. Opis zadania](#opis-zadania)
-[2. Kod programu](#kod-proramu)
-[3. Wizualizacja](#Wizualizacja)
-[4. Źródła](#źródła)
+* [1. Opis zadania](#opis-zadania)
+* [2. Kod programu](#kod-proramu)
+* [3. Wizualizacja](#Wizualizacja)
+* [4. Źródła](#źródła)
 
 ### 1. Opis zadania
 
