@@ -8,6 +8,16 @@ Arkusze z 2025 roku
 * [4. Źródła](#źródła)
 
 ### 1. Opis zadania
+Wykonaj zapytania SQL działające na bazie piekarnia. Zapytania zapisz w pliku kwerendy.txt. Wykonaj
+zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie PNG i nadaj im nazwy
+kw1, kw2, kw3, kw4. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań
+- Zapytanie 1: wybierające jedynie pola: Rodzaj, Nazwa, Gramatura i Cena dla wyrobów z rodzaju
+„INNE”
+- Zapytanie 2: wybierające jedynie posortowane malejąco rodzaje wyrobów. Rodzaje wyrobów nie mogą
+się powtarzać
+- Zapytanie 3: wybierające jedynie pola: ID oraz Nazwa dla wyrobów, których nazwa zawiera słowo
+„Chałka”
+
 
 ### 2. Kod programu
 ```
